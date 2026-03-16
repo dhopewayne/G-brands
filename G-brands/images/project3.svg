@@ -1,0 +1,10 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="200" fill="#e9ecef" stroke="#dee2e6" stroke-width="2"/>
+  <text x="150" y="100" text-anchor="middle" fill="#6c757d" font-family="Arial" font-size="18">Project 3</text>
+  <rect x="50" y="50" width="80" height="50" fill="#6f42c1" rx="5"/>
+  <text x="90" y="80" text-anchor="middle" fill="#fff" font-family="Arial" font-size="12">Shop</text>
+  <rect x="150" y="50" width="80" height="50" fill="#e83e8c" rx="5"/>
+  <text x="190" y="80" text-anchor="middle" fill="#fff" font-family="Arial" font-size="12">Cart</text>
+  <rect x="100" y="120" width="100" height="30" fill="#20c997" rx="15"/>
+  <text x="150" y="140" text-anchor="middle" fill="#fff" font-family="Arial" font-size="12">Checkout</text>
+</svg>

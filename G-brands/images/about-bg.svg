@@ -1,0 +1,4 @@
+<svg width="500" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="300" fill="#f8f9fa"/>
+  <text x="250" y="150" text-anchor="middle" fill="#333" font-family="Arial" font-size="24">About Background Image</text>
+</svg>
